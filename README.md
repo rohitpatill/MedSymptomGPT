@@ -19,7 +19,7 @@ MedSymptomGPT is a machine learning application using DistilGPT-2, fine-tuned on
 
 2. **Download Model:**
 
-    Download the model file from [Google Drive](https://drive.google.com/file/d/1Nrs3UL6lhLlbRYKxXPIinIh-2BOCyaY4/view?usp=drive_link) and place it in the main directory alongside other project files.
+    Download the model from [Hugging Face Model Page](https://huggingface.co/RohitPatill/MedSymptomGPT) and place it in the main directory alongside other project files.
 
 3. **Run the Application:**
 
@@ -96,7 +96,6 @@ decoded_output = tokenizer.decode(output[0], skip_special_tokens=True)
 print(decoded_output)
 ```
 
-## Stay Updated
+## Download Model from Google Drive 
 
-For more information or any future updates regarding the model, follow or keep in touch via the [Hugging Face Model Page](https://huggingface.co/RohitPatill/MedSymptomGPT).
-
+Download Model from [Google Drive](https://drive.google.com/file/d/1Nrs3UL6lhLlbRYKxXPIinIh-2BOCyaY4/view?usp=drive_link) if you face any difficulty while downloading it from Hugging Face.
